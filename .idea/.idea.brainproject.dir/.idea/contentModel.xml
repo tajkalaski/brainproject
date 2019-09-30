@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\laski\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\laski\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\laski\OneDrive\Pulpit\brainproject" t="IncludeFlat">
+      <e p="node_modules\@babel\parser" t="IncludeRecursive" />
+      <e p="node_modules\@babel\types" t="IncludeRecursive" />
+      <e p="node_modules\@jest\console" t="IncludeRecursive" />
+      <e p="node_modules\@jest\fake-timers" t="IncludeRecursive" />
+      <e p="node_modules\@jest\source-map" t="IncludeRecursive" />
+      <e p="node_modules\@jest\test-result" t="IncludeRecursive" />
+      <e p="node_modules\@jest\types" t="IncludeRecursive" />
+      <e p="node_modules\@types" t="IncludeRecursive">
+        <e p="babel__generator" t="IncludeRecursive" />
+        <e p="babel__template" t="IncludeRecursive" />
+        <e p="babel__traverse" t="IncludeRecursive" />
+        <e p="istanbul-lib-coverage" t="IncludeRecursive" />
+        <e p="istanbul-lib-report" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\babel-jest" t="IncludeRecursive" />
+      <e p="node_modules\chalk" t="IncludeRecursive" />
+      <e p="node_modules\clarifai" t="IncludeRecursive" />
+      <e p="node_modules\dotenv-expand" t="IncludeRecursive" />
+      <e p="node_modules\jest" t="IncludeRecursive" />
+      <e p="node_modules\jest-haste-map" t="IncludeRecursive" />
+      <e p="node_modules\jest-message-util" t="IncludeRecursive" />
+      <e p="node_modules\jest-mock" t="IncludeRecursive" />
+      <e p="node_modules\jest-resolve" t="IncludeRecursive" />
+      <e p="node_modules\jest-serializer" t="IncludeRecursive" />
+      <e p="node_modules\jest-util" t="IncludeRecursive" />
+      <e p="node_modules\jest-worker" t="IncludeRecursive" />
+      <e p="node_modules\react" t="IncludeRecursive" />
+      <e p="node_modules\react-dom" t="IncludeRecursive" />
+      <e p="node_modules\react-particles-js" t="IncludeRecursive" />
+      <e p="node_modules\react-scripts" t="IncludeRecursive" />
+      <e p="node_modules\react-tilt" t="IncludeRecursive" />
+      <e p="node_modules\realpath-native" t="IncludeRecursive" />
+      <e p="node_modules\source-map" t="IncludeRecursive" />
+      <e p="node_modules\tachyons" t="IncludeRecursive" />
+      <e p="node_modules\worker-farm" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
